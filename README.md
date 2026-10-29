@@ -1,5 +1,7 @@
 # devops-capstone-project
 
+[![Build Status](https://github.com/suhanib-18/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)](https://github.com/suhanib-18/devops-capstone-project/actions/workflows/ci-build.yaml)
+
 ## Project Name
 **DevOps Capstone Project**
 
